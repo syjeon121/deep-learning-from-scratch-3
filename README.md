@@ -6,7 +6,7 @@
 
 ## 새소식
 
-:white_check_mark: **2020.09.21** - 베타리더 모집 중
+:white_check_mark: **2020.09.21** - 베타리더 모집 중 [[클릭하세요~](https://docs.google.com/forms/d/1kI8afeXqSSyM-GO0H1BPfVSi9ZEcoUfW7yUth7EU_-0)]
 
 
 ## 
@@ -19,7 +19,7 @@
 * 유용한 프로그래밍 관례를 익힌다.
 
 더 자세한 소개 정보는 다음 문서를 참고하세요.
-* *[『밑바닥 딥러닝 ❸』 상세 소개](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
+* *[상세 소개 및 목차](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
 
 <p>
 <img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="400px" </p>
