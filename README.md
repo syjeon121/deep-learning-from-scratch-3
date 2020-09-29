@@ -6,7 +6,8 @@
 
 ## 새소식
 
-:white_check_mark: **2020.09.21** - 베타리더 모집 중 [[클릭하세요~](https://docs.google.com/forms/d/1kI8afeXqSSyM-GO0H1BPfVSi9ZEcoUfW7yUth7EU_-0)]
+:white_check_mark: **2020.09.24** - 베타리뷰 중
+:white_check_mark: **2020.09.21** - 베타리더 모집 중
 
 
 ## 
