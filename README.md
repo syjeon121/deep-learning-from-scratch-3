@@ -1,6 +1,6 @@
 # tanh 함수의 고차 미분
 
-이 책의 ['35단계'](https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/steps/step35.py)는、'y = tanh(x)'의 고차 미분을 계산하고, 그때 만들어지는 계산 그래프를 시각화합니다.
+이 책의 ['35단계'](https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/steps/step35.py)는 'y = tanh(x)'의 고차 미분을 계산하고, 그때 만들어지는 계산 그래프를 시각화합니다.
 
 다음은 그 결과 이미지들입니다.
 
