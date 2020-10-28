@@ -1,14 +1,8 @@
-(준비 중) 『밑바닥부터 시작하는 딥러닝 ❸』
+『밑바닥부터 시작하는 딥러닝 ❸』
 ==========================
 <p>
-<a href="https://www.amazon.co.jp/dp/4873119065/ref=cm_sw_r_tw_dp_U_x_KiA1Eb39SW14Q"><img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/deep-learning-from-scratch-3.png" height="250"></a>
+<a href="https://www.amazon.co.jp/dp/4873119065/ref=cm_sw_r_tw_dp_U_x_KiA1Eb39SW14Q"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" height="200" align=right></a>
 </p>
-
-## 새소식
-
-:white_check_mark: **2020.11.20** - 출간
-
-:white_check_mark: **2020.10.18** - 베타리뷰 완료
 
 ## DeZero 빌드 현황
 
@@ -27,6 +21,18 @@
 		src="https://travis-ci.org/oreilly-japan/deep-learning-from-scratch-3.svg?branch=master"></a>
 </p>
 
+
+## 시리즈 소개 ([PDF 다운로드](https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5123.pdf))
+
+<a href="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5123.pdf"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5123.png" width=1000></a>
+
+
+## 새소식
+
+:white_check_mark: **2020.11.20** - 출간
+
+:white_check_mark: **2020.10.18** - 베타리뷰 완료
+
 ## 소개
 
 『밑바닥부터 시작하는 딥러닝 ❸』에서는 'DeZero'라는 이 책의 오리지널 딥러닝 프레임워크를 만듭니다. DeZero는 파이토치, 텐서플로 2.0, 체이너 같은 현대적인 프레임워크가 채택한 동적 계산 그래프(Define-by-Run) 방식의 프레임워크입니다. 최소한의 코드로, 하지만 충분히 강력한 프레임워크를 총 60단계에 걸쳐 완성합니다. 이를 통해 여러분은 다음과 같은 효과를 얻으실 수 있을 겁니다.
@@ -39,11 +45,6 @@
 
 더 자세한 소개 정보는 다음 문서를 참고하세요.
 * *[상세 소개 및 목차](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
-
-## 시리즈 비교 ([PDF 다운로드](https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5123.pdf))
-
-<img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5123.png" width=1000>
-
 
 ## 베타리뷰
 
