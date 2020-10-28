@@ -31,9 +31,7 @@
 
 ## 새소식
 
-:white_check_mark: **2020.11.20** - 출간
-
-:white_check_mark: **2020.10.18** - 베타리뷰 완료
+:white_check_mark: **2020.11.20** - 출간 예정
 
 ## 소개
 
