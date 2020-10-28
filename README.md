@@ -6,25 +6,11 @@
 
 ## 새소식
 
+:white_check_mark: **2020.11.20** - 출간
+
 :white_check_mark: **2020.10.18** - 베타리뷰 완료
 
-한국어판 베타리뷰는 최대의 효과를 내기 위해 딥러닝 경력, 개발 경력, 학계/업계, 중검 검토 분야 등을 종합해 리뷰어 분들은 선정했습니다. 그리고 많은 분이 적극 참여해주셔서 기대 이상의 피드백을 받았습니다. 값진 시간 내어주신 모든 분께 감사드립니다.
-
-[그림] 한국어판 베타리더 분포
-
-<img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/dezero_reviewers.png" width=800>
-
-## 
-『밑바닥부터 시작하는 딥러닝 ❸』에서는 'DeZero'라는 이 책의 오리지널 딥러닝 프레임워크를 만듭니다. DeZero는 파이토치, 텐서플로 2.0, 체이너 같은 현대적인 프레임워크가 채택한 동적 계산 그래프(Define-by-Run) 방식의 프레임워크입니다. 최소한의 코드로, 하지만 충분히 강력한 프레임워크를 총 60단계에 걸쳐 완성합니다. 이를 통해 여러분은 다음과 같은 효과를 얻으실 수 있을 겁니다.
- 
-* 파이토치, 텐서플로 2.0 같은 현대적인 딥러닝 프레임워크의 동작 원리를 깨우친다.
-* 현대적인 딥러닝 프레임워크를 떠받드는 기술과 사상을 들여다본다.
-* 딥러닝을 한 차원 깊게 이해한다.
-* ‘프레임워크’를 직접 개발해보는 경험을 쌓아, 개발자로서 한 단계 성장한다.
-* 유용한 프로그래밍 관례를 익힌다.
-
-더 자세한 소개 정보는 다음 문서를 참고하세요.
-* *[상세 소개 및 목차](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
+## DeZero 빌드 현황
 
 <p>
 <img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="400px" </p>
@@ -40,6 +26,32 @@
 		alt="Build Status"
 		src="https://travis-ci.org/oreilly-japan/deep-learning-from-scratch-3.svg?branch=master"></a>
 </p>
+
+## 소개
+
+『밑바닥부터 시작하는 딥러닝 ❸』에서는 'DeZero'라는 이 책의 오리지널 딥러닝 프레임워크를 만듭니다. DeZero는 파이토치, 텐서플로 2.0, 체이너 같은 현대적인 프레임워크가 채택한 동적 계산 그래프(Define-by-Run) 방식의 프레임워크입니다. 최소한의 코드로, 하지만 충분히 강력한 프레임워크를 총 60단계에 걸쳐 완성합니다. 이를 통해 여러분은 다음과 같은 효과를 얻으실 수 있을 겁니다.
+ 
+* 파이토치, 텐서플로 2.0 같은 현대적인 딥러닝 프레임워크의 동작 원리를 깨우친다.
+* 현대적인 딥러닝 프레임워크를 떠받드는 기술과 사상을 들여다본다.
+* 딥러닝을 한 차원 깊게 이해한다.
+* ‘프레임워크’를 직접 개발해보는 경험을 쌓아, 개발자로서 한 단계 성장한다.
+* 유용한 프로그래밍 관례를 익힌다.
+
+더 자세한 소개 정보는 다음 문서를 참고하세요.
+* *[상세 소개 및 목차](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
+
+## 시리즈 비교 ([PDF 다운로드](https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5123.pdf))
+
+<img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5123.png" width=1000>
+
+
+## 베타리뷰
+
+한국어판 베타리뷰는 최대의 효과를 내기 위해 딥러닝 경력, 개발 경력, 학계/업계, 중검 검토 분야 등을 종합해 리뷰어 분들은 선정했습니다. 그리고 많은 분이 적극 참여해주셔서 기대 이상의 피드백을 받았습니다. 값진 시간 내어주신 모든 분께 감사드립니다.
+
+[그림] 한국어판 베타리더 분포
+
+<img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/dezero_reviewers.png" width=1000>
 
 
 ## 파일 구성
