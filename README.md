@@ -43,6 +43,10 @@
 * ‘프레임워크’를 직접 개발해보는 경험을 쌓아, 개발자로서 한 단계 성장한다.
 * 유용한 프로그래밍 관례를 익힌다.
 
+다음은 DeZero 프레임워크의 핵심 클래스들의 관계도입니다.
+<a href="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.pdf"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.png" width=1000></a>
+
+
 더 자세한 소개 정보는 다음 문서를 참고하세요.
 * *[상세 소개 및 목차](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
 
