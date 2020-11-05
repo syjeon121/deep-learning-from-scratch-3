@@ -44,7 +44,7 @@
 * 유용한 프로그래밍 관례를 익힌다.
 
 다음은 DeZero 프레임워크를 구성하는 핵심 클래스들의 관계도입니다.
-<a href="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.pdf"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZero%ED%95%B5%EC%8B%AC%ED%81%B4%EB%9E%98%EC%8A%A4%EB%93%A4.png" width=1000></a>
+<a href="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.pdf"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.png" width=1000></a>
 
 
 더 자세한 소개 정보는 다음 문서를 참고하세요.
