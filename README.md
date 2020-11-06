@@ -1,13 +1,13 @@
 『밑바닥부터 시작하는 딥러닝 ❸』
 ==========================
 <p>
-<a href="https://www.amazon.co.jp/dp/4873119065/ref=cm_sw_r_tw_dp_U_x_KiA1Eb39SW14Q"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" height="200" align=right></a>
+<a href="https://www.amazon.co.jp/dp/4873119065/ref=cm_sw_r_tw_dp_U_x_KiA1Eb39SW14Q"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" height="200" align=right style="border: 1 solid"></a>
 </p>
 
 ## DeZero 빌드 현황
 
 <p>
-<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="400px" </p>
+<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-3/images/dezero_logo.png" width="400px"> </p>
 
 <p>
   <a href="https://pypi.python.org/pypi/dezero"><img
