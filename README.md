@@ -45,7 +45,9 @@
 
 다음은 DeZero 프레임워크를 구성하는 핵심 클래스들의 관계도입니다.
 <a href="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.pdf"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.png" width=1000></a>
+원서에는 없는 그림으로, 공부하시는 중간에 혹은 책을 다 읽으신 후에 전체 그림을 정리해보시는 데 도움 드리고자 그려봤습니다.
 
+또한 책 마지막 인덱스(찾아보기)에는 'DeZero API 찾아보기'를 따로 분류해놓았으니 소스 코드를 보시다가 해당 책의 설명이 궁금하실 때 활용해주세요.
 
 더 자세한 소개 정보는 다음 문서를 참고하세요.
 * *[상세 소개 및 목차](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
