@@ -1,7 +1,7 @@
 『밑바닥부터 시작하는 딥러닝 ❸』
 ==========================
 <p>
-<a href="https://www.amazon.co.jp/dp/4873119065/ref=cm_sw_r_tw_dp_U_x_KiA1Eb39SW14Q"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" height="200" align=right style="border: 1 solid"></a>
+<a href="http://www.yes24.com/Product/Goods/95343845"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/cover.jpg" height="200" align=right></a>
 </p>
 
 ## DeZero 빌드 현황
