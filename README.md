@@ -42,6 +42,7 @@
 * 딥러닝을 한 차원 깊게 이해한다.
 * ‘프레임워크’를 직접 개발해보는 경험을 쌓아, 개발자로서 한 단계 성장한다.
 * 유용한 파이썬 프로그래밍 관례를 익힌다.
+* 파이토치, 텐서플로 2, 체이너 같은 현대적 프레임워크의 소스 코드를 더욱 쉽게 분석하고 이해할 수 있다.
 
 다음은 DeZero 프레임워크를 구성하는 핵심 클래스들의 관계도입니다.
 <a href="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.pdf"><img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/DeZeroClasses.png" width=1000></a>
@@ -51,6 +52,12 @@
 
 더 자세한 소개 정보는 다음 문서를 참고하세요.
 * *[상세 소개 및 목차](https://docs.google.com/document/d/1nJ9vhQnAnc3yW2OLFBFkv9NvKFuP0igGjgaz9ykCySo/)*
+
+## 선수지식
+
+다음은 역자가 추천하는 선수지식입니다.
+<img src="https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A5%20%EC%84%A0%EC%88%98%EC%A7%80%EC%8B%9D.png" width=1000>
+
 
 ## 베타리뷰
 
