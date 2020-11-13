@@ -31,7 +31,7 @@
 
 ## 새소식
 
-:white_check_mark: **2020.11.20** - 출간 예정
+:white_check_mark: **2020.11.20** - 출간 (<a href="http://www.yes24.com/Product/Goods/95343845">예스24</a> | <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243596&orderClick=LEa&Kc=">교보문고</a> | <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=256067157">알라딘</a> | <a href="http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=343265018&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001">인터파크</a> | <a href="http://hanbit.co.kr/store/books/look.php?p_code=B6627606922">한빛미디어</a>)
 
 ## 소개
 
