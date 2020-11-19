@@ -131,6 +131,11 @@ _이번 3편은 베타리딩하면서 ‘당분간 인공지능 입문서는 이
 |[steps](/steps)|각 단계의 파일（step01.py ~ step60.py）|
 |[tests](/tests)|DeZero 단위 테스트|
 
+### 그림, 수식, 표 이미지 모음
+이 책으로 강의 교안을 만드시거나 스터디 후 요약 정리하고자 하시는 분들의 편의를 위해 책 본문의 그림, 수식, 표 이미지 모음 파일을 제공합니다.
+
+ * [그림, 수식, 표 이미지 모음 파일](https://github.com/WegraLee/deep-learning-from-scratch-3/blob/master/%EB%B0%91%EB%B0%94%EB%8B%A53%20%EA%B7%B8%EB%A6%BC%EA%B3%BC%20%EC%88%98%EC%8B%9D.zip)
+
 
 ## 요구사항
 소스 코드를 실행하려면 아래의 소프트웨어가 설치되어 있어야 합니다.
