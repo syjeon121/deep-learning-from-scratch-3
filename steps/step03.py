@@ -17,7 +17,7 @@ class Function:
         raise NotImplementedError()
 
 
-class Square(Function):
+class Sqaure(Function):
     def forward(self, x):
         return x ** 2
 
@@ -27,12 +27,14 @@ class Exp(Function):
         return np.exp(x)
 
 
-A = Square()
+A = Sqaure()
 B = Exp()
-C = Square()
+C = Sqaure()
 
 x = Variable(np.array(0.5))
 a = A(x)
 b = B(a)
-y = C(b)
-print(y.data)
+c = A(b)
+
+print(type(c))
+print(c.data)
