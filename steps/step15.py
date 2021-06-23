@@ -34,9 +34,11 @@ class Variable:
         self.data = data
         self.grad = None
         self.creator = None
+        self.generation = 0  # 세대 수를 기록하는 변수
 
     def set_creator(self, func):
         self.creator = func
+        self.generation = func.generation + 1
 
     def backward(self):
         if self.grad is None:
@@ -72,6 +74,7 @@ class Function:
             ys = (ys,)
         outputs = [Variable(as_array(y)) for y in ys]
 
+        self.generation = max([x.generation for x in inputs])
         for output in outputs:
             output.set_creator(self)
 
